@@ -1,0 +1,4 @@
+.prettierignore
+.docusaurus/
+/.nx/cache
+node_modules/
